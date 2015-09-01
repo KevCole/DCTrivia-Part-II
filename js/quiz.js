@@ -1,5 +1,6 @@
+//generic function that isloates any other javascript on page
 (function(){
 
-	// script goes here
+	var app = angular.module('myQuiz',[])
 
 })();
